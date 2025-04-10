@@ -3,53 +3,53 @@
 
 ## Table of Contents
 
-- 1-feedforward_network/
-- 2-back_propagation/
-- 3-bp_example_demo/
-- 4-convolution_neural_network/
-- 5-deep_learning_model/
-- 6-pytorch_install/
-- 7-operators/
-- 8-activation_functions/
-- 9-recurrent_neural_network/
-- 10-seq2seq/
-- 11-attentions/
-- 12-weight-initialization/
-- 13-optimizers/
-- 14-regularization/
-- 15-deep-learning-tuning-guide/
-- 16-learning_rate/
-- 20-pytorch-tensor/
-- 21-pytorch-autograd/
-- 22-pytorch-module/
-- 23-training-examples/
-- 24-pytorch-optimizer/
-- 25-pytorch-lr-scheduler/
-- 25-pytorch-data-state/
-- 26-pytorch-dataloader/
-- 27-pytorch-model-save/
-- 28-pytorch-tensorboard/
-- 29-pytorch-graph-mode/
-- 30-training_examples_cv/
-- 31-stable-diffusion/
-- 33-stable-diffusion/
-- 40-nlp_bert/
-- 41-nlp_t5/
-- 42-nlp-gpt/
-- 43-scaling-law/
-- 44-distribute-training/
-- 45-LLM-History/
-- 46-LLM-GPT-Extension/
-- 46-LLM-Llama/
-- 47-LLM-DeepSeek-Structure/
-- 48-LLM-deepseek-r1-training/
-- 49-PPO-GRPO/
-- 50-Chain-of-Thought/
-- 100-LLM-Survey/
+- [1-feedforward_network/](./1-feedforward_network/)
+- [2-back_propagation/](./2-back_propagation/)
+- [3-bp_example_demo/](./3-bp_example_demo/)
+- [4-convolution_neural_network/](./4-convolution_neural_network/)
+- [5-deep_learning_model/](./5-deep_learning_model/)
+- [6-pytorch_install/](./6-pytorch_install/)
+- [7-operators/](./7-operators/)
+- [8-activation_functions/](./8-activation_functions/)
+- [9-recurrent_neural_network/](./9-recurrent_neural_network/)
+- [10-seq2seq/](./10-seq2seq/)
+- [11-attentions/](./11-attentions/)
+- [12-weight-initialization/](./12-weight-initialization/)
+- [13-optimizers/](./13-optimizers/)
+- [14-regularization/](./14-regularization/)
+- [15-deep-learning-tuning-guide/](./15-deep-learning-tuning-guide/)
+- [16-learning_rate/](./16-learning_rate/)
+- [20-pytorch-tensor/](./20-pytorch-tensor/)
+- [21-pytorch-autograd/](./21-pytorch-autograd/)
+- [22-pytorch-module/](./22-pytorch-module/)
+- [23-training-examples/](./23-training-examples/)
+- [24-pytorch-optimizer/](./24-pytorch-optimizer/)
+- [25-pytorch-lr-scheduler/](./25-pytorch-lr-scheduler/)
+- [25-pytorch-data-state/](./25-pytorch-data-state/)
+- [26-pytorch-dataloader/](./26-pytorch-dataloader/)
+- [27-pytorch-model-save/](./27-pytorch-model-save/)
+- [28-pytorch-tensorboard/](./28-pytorch-tensorboard/)
+- [29-pytorch-graph-mode/](./29-pytorch-graph-mode/)
+- [30-training_examples_cv/](./30-training_examples_cv/)
+- [31-stable-diffusion/](./31-stable-diffusion/)
+- [33-stable-diffusion/](./33-stable-diffusion/)
+- [40-nlp_bert/](./40-nlp_bert/)
+- [41-nlp_t5/](./41-nlp_t5/)
+- [42-nlp-gpt/](./42-nlp-gpt/)
+- [43-scaling-law/](./43-scaling-law/)
+- [44-distribute-training/](./44-distribute-training/)
+- [45-LLM-History/](./45-LLM-History/)
+- [46-LLM-GPT-Extension/](./46-LLM-GPT-Extension/)
+- [46-LLM-Llama/](./46-LLM-Llama/)
+- [47-LLM-DeepSeek-Structure/](./47-LLM-DeepSeek-Structure/)
+- [48-LLM-deepseek-r1-training/](./48-LLM-deepseek-r1-training/)
+- [49-PPO-GRPO/](./49-PPO-GRPO/)
+- [50-Chain-of-Thought/](./50-Chain-of-Thought/)
+- [100-LLM-Survey/](./100-LLM-Survey/)
 
-**other:**
+**Other:**
 
-- position_embedding/
+- [position_embedding/](./position_embedding/)
 
 
 
