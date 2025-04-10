@@ -66,7 +66,7 @@
 | 001  | update：softmax 激活函数的导数引出一下（雅可比矩阵）         |  1   |
 | 002  | add：Norm 讲解的时候，未加入最新的 DyT（[Transformers without normalization](https://yiyibooks.cn/arxiv/2503.10622v1/index.html)） |  1   |
 | 003  | add：DeepNorm 补充                                           |  1   |
-| 004  | add：PyTorch 等框架模型结构中的参数类型和数据整理~~（我的笔记）~~（已补充到课件PyTorch部分） |  0   |
+| 004  | add：PyTorch 等框架模型结构中的参数类型和数据整理（已补充到课件PyTorch部分） |  1   |
 | 005  | 思考：工程如何实现训练和推理不同的模块或者算子（那个 training 参数和具体的算子结构） |  0   |
 | 006  |                                                              |  0   |
 
