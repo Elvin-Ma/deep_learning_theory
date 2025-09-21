@@ -2,7 +2,6 @@
 ![alt text](image.png)
 
 - [Llama1-EN](https://arxiv.org/pdf/2302.13971)
-- [Llama1-CN]()
 - [LLama1-CN-mls](https://github.com/Elvin-Ma/ai_papers/blob/main/llama/llama.md)
 
 - [LLama2-EN](https://arxiv.org/pdf/2307.09288)
@@ -345,3 +344,5 @@ Llama 3。 它是一组原生支持多语言、编码、推理和工具使用的
 ### 7.5.7 迭代轮次
 遵循 Llama 2，我们在六轮中应用上述方法。 在每个循环中，我们收集新的偏好标注和 SFT 数据，从最新的模型中采样合成数据。
 
+# 8 llama 的工程实现(3D + compiler + FP8 + FSDP + CP ？)
+- [llama 训练]https://github.com/pytorch/torchtitan#
